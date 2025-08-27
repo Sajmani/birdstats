@@ -1,9 +1,9 @@
-394 species; 498 submissions
+394 species; 223 with media; 498 submissions
 1162 total km; 2.3 avg km
 722 total mi; 1.4 avg mi
 646h4m0s total time; 1h17m0s avg time
 ————————————————————————————————————————————————————————————————————————————————
-Accipiter striatus                    Sharp-shinned Hawk                      9 total      0 pics/sounds
+Accipiter striatus                    Sharp-shinned Hawk                      9 total      3 pics/sounds
 Accipiter striatus/Astur cooperii     Sharp-shinned/Cooper's Hawk             2 total      0 pics/sounds
 Accipitridae sp. (hawk sp.)           hawk sp.                                1 total      0 pics/sounds
 Actitis macularius                    Spotted Sandpiper                       25 total     6 pics/sounds
@@ -69,7 +69,7 @@ Buteo buteo                           Common Buzzard                          3 
 Buteo jamaicensis                     Red-tailed Hawk                         99 total     3 pics/sounds
 Buteo lineatus                        Red-shouldered Hawk                     9 total      0 pics/sounds
 Buteo platypterus                     Broad-winged Hawk                       2 total      0 pics/sounds
-Butorides virescens                   Green Heron                             20 total     0 pics/sounds
+Butorides virescens                   Green Heron                             20 total     1 pics/sounds
 Cairina moschata (Domestic type)      Muscovy Duck (Domestic type)            3 total      0 pics/sounds
 Calidris alba                         Sanderling                              858 total    9 pics/sounds
 Calidris alpina                       Dunlin                                  147 total    0 pics/sounds
@@ -105,7 +105,7 @@ Circus hudsonius                      Northern Harrier                        9 
 Cistothorus palustris                 Marsh Wren                              18 total     4 pics/sounds
 Clangula hyemalis                     Long-tailed Duck                        25 total     4 pics/sounds
 Coereba flaveola caboti               Bananaquit (Cozumel I.)                 7 total      0 pics/sounds
-Colaptes auratus                      Northern Flicker                        196 total    0 pics/sounds
+Colaptes auratus                      Northern Flicker                        196 total    2 pics/sounds
 Colaptes auratus auratus/luteus       Northern Flicker (Yellow-shafted)       2 total      0 pics/sounds
 Coloeus monedula                      Eurasian Jackdaw                        68 total     3 pics/sounds
 Columba livia                         Rock Pigeon                             0 total      0 pics/sounds
@@ -125,7 +125,7 @@ Corvus splendens                      House Crow                              20
 Creatophora cinerea                   Wattled Starling                        6 total      1 pics/sounds
 Crinifer personatus                   Bare-faced Go-away-bird                 1 total      0 pics/sounds
 Cyanistes caeruleus                   Eurasian Blue Tit                       14 total     3 pics/sounds
-Cyanocitta cristata                   Blue Jay                                1171 total   1 pics/sounds
+Cyanocitta cristata                   Blue Jay                                1171 total   2 pics/sounds
 Cyanocitta stelleri                   Steller's Jay                           3 total      0 pics/sounds
 Cyanomitra veroxii                    Mouse-colored Sunbird                   0 total      0 pics/sounds
 Cygnus buccinator                     Trumpeter Swan                          52 total     0 pics/sounds
@@ -144,7 +144,7 @@ Egretta ardesiaca                     Black Heron                             0 
 Egretta caerulea                      Little Blue Heron                       7 total      1 pics/sounds
 Egretta thula                         Snowy Egret                             134 total    5 pics/sounds
 Egretta tricolor                      Tricolored Heron                        6 total      1 pics/sounds
-Elanus leucurus                       White-tailed Kite                       2 total      0 pics/sounds
+Elanus leucurus                       White-tailed Kite                       2 total      1 pics/sounds
 Empidonax alnorum                     Alder Flycatcher                        1 total      0 pics/sounds
 Empidonax flaviventris                Yellow-bellied Flycatcher               1 total      2 pics/sounds
 Empidonax minimus                     Least Flycatcher                        2 total      0 pics/sounds
@@ -160,7 +160,7 @@ Falco columbarius                     Merlin                                  7 
 Falco peregrinus                      Peregrine Falcon                        14 total     3 pics/sounds
 Falco sparverius                      American Kestrel                        15 total     0 pics/sounds
 Fregata magnificens                   Magnificent Frigatebird                 2 total      0 pics/sounds
-Fulica americana                      American Coot                           511 total    4 pics/sounds
+Fulica americana                      American Coot                           511 total    5 pics/sounds
 Fulica atra                           Eurasian Coot                           40 total     1 pics/sounds
 Gallinago delicata                    Wilson's Snipe                          1 total      0 pics/sounds
 Gallinula chloropus                   Eurasian Moorhen                        28 total     1 pics/sounds
@@ -174,11 +174,11 @@ Geothlypis trichas                    Common Yellowthroat                     12
 Haematopus palliatus                  American Oystercatcher                  257 total    2 pics/sounds
 Haemorhous mexicanus                  House Finch                             221 total    3 pics/sounds
 Haemorhous mexicanus/purpureus        House/Purple Finch                      2 total      0 pics/sounds
-Haemorhous purpureus                  Purple Finch                            26 total     0 pics/sounds
+Haemorhous purpureus                  Purple Finch                            26 total     1 pics/sounds
 Halcyon leucocephala                  Gray-headed Kingfisher                  1 total      1 pics/sounds
-Haliaeetus leucocephalus              Bald Eagle                              24 total     12 pics/sounds
+Haliaeetus leucocephalus              Bald Eagle                              24 total     13 pics/sounds
 Hedydipna collaris                    Collared Sunbird                        0 total      0 pics/sounds
-Himantopus mexicanus                  Black-necked Stilt                      109 total    0 pics/sounds
+Himantopus mexicanus                  Black-necked Stilt                      109 total    1 pics/sounds
 Hirundinidae sp.                      swallow sp.                             9 total      0 pics/sounds
 Hirundo rustica                       Barn Swallow                            236 total    4 pics/sounds
 Histrionicus histrionicus             Harlequin Duck                          2 total      11 pics/sounds
@@ -213,7 +213,7 @@ Leiothlypis ruficapilla               Nashville Warbler                       5 
 Leptoptilos crumenifer                Marabou Stork                           0 total      1 pics/sounds
 Leucophaeus atricilla                 Laughing Gull                           2687 total   14 pics/sounds
 Limnodromus griseus                   Short-billed Dowitcher                  113 total    5 pics/sounds
-Limnodromus scolopaceus               Long-billed Dowitcher                   140 total    0 pics/sounds
+Limnodromus scolopaceus               Long-billed Dowitcher                   140 total    1 pics/sounds
 Lonchura punctulata                   Scaly-breasted Munia                    15 total     1 pics/sounds
 Lophodytes cucullatus                 Hooded Merganser                        172 total    2 pics/sounds
 Loxia curvirostra                     Red Crossbill                           22 total     0 pics/sounds
@@ -228,10 +228,10 @@ Melanitta deglandi                    White-winged Scoter                     1 
 Melanitta perspicillata               Surf Scoter                             29 total     6 pics/sounds
 Melanitta sp.                         scoter sp.                              300 total    0 pics/sounds
 Meleagris gallopavo                   Wild Turkey                             3 total      0 pics/sounds
-Melospiza georgiana                   Swamp Sparrow                           89 total     2 pics/sounds
+Melospiza georgiana                   Swamp Sparrow                           89 total     3 pics/sounds
 Melospiza lincolnii                   Lincoln's Sparrow                       2 total      0 pics/sounds
 Melospiza melodia                     Song Sparrow                            813 total    3 pics/sounds
-Melozone crissalis                    California Towhee                       17 total     0 pics/sounds
+Melozone crissalis                    California Towhee                       17 total     1 pics/sounds
 Mergus merganser                      Common Merganser                        64 total     7 pics/sounds
 Mergus merganser/serrator             Common/Red-breasted Merganser           3 total      0 pics/sounds
 Mergus serrator                       Red-breasted Merganser                  202 total    3 pics/sounds
@@ -255,8 +255,8 @@ Numida meleagris                      Helmeted Guineafowl                     8 
 Nyctanassa violacea                   Yellow-crowned Night Heron              57 total     8 pics/sounds
 Nycticorax nycticorax                 Black-crowned Night Heron               76 total     1 pics/sounds
 Oxyura jamaicensis                    Ruddy Duck                              2995 total   3 pics/sounds
-Pandion haliaetus                     Osprey                                  134 total    3 pics/sounds
-Parkesia motacilla                    Louisiana Waterthrush                   3 total      0 pics/sounds
+Pandion haliaetus                     Osprey                                  134 total    4 pics/sounds
+Parkesia motacilla                    Louisiana Waterthrush                   3 total      1 pics/sounds
 Parkesia noveboracensis               Northern Waterthrush                    36 total     3 pics/sounds
 Parus major                           Great Tit                               16 total     1 pics/sounds
 Passer domesticus                     House Sparrow                           5260 total   7 pics/sounds
@@ -304,7 +304,7 @@ Quiscalus mexicanus                   Great-tailed Grackle                    29
 Quiscalus quiscula                    Common Grackle                          701 total    1 pics/sounds
 Rallus crepitans                      Clapper Rail                            32 total     1 pics/sounds
 Rallus limicola                       Virginia Rail                           2 total      0 pics/sounds
-Recurvirostra americana               American Avocet                         1200 total   0 pics/sounds
+Recurvirostra americana               American Avocet                         1200 total   2 pics/sounds
 Regulus satrapa                       Golden-crowned Kinglet                  498 total    0 pics/sounds
 Riparia riparia                       Bank Swallow                            26 total     2 pics/sounds
 Rynchops niger                        Black Skimmer                           1901 total   6 pics/sounds
@@ -326,7 +326,7 @@ Setophaga magnolia                    Magnolia Warbler                        26
 Setophaga palmarum                    Palm Warbler                            92 total     1 pics/sounds
 Setophaga pensylvanica                Chestnut-sided Warbler                  10 total     0 pics/sounds
 Setophaga petechia                    Yellow Warbler                          219 total    3 pics/sounds
-Setophaga pinus                       Pine Warbler                            59 total     0 pics/sounds
+Setophaga pinus                       Pine Warbler                            59 total     3 pics/sounds
 Setophaga ruticilla                   American Redstart                       111 total    8 pics/sounds
 Setophaga striata                     Blackpoll Warbler                       142 total    0 pics/sounds
 Setophaga tigrina                     Cape May Warbler                        17 total     1 pics/sounds
@@ -339,7 +339,7 @@ Sitta pygmaea                         Pygmy Nuthatch                          3 
 Spatula clypeata                      Northern Shoveler                       3236 total   0 pics/sounds
 Spatula cyanoptera                    Cinnamon Teal                           2 total      0 pics/sounds
 Spatula discors                       Blue-winged Teal                        10 total     0 pics/sounds
-Sphyrapicus varius                    Yellow-bellied Sapsucker                52 total     3 pics/sounds
+Sphyrapicus varius                    Yellow-bellied Sapsucker                52 total     4 pics/sounds
 Spinus pinus                          Pine Siskin                             132 total    0 pics/sounds
 Spinus psaltria                       Lesser Goldfinch                        5 total      0 pics/sounds
 Spinus tristis                        American Goldfinch                      432 total    1 pics/sounds
@@ -372,7 +372,7 @@ Toxostoma rufum                       Brown Thrasher                          11
 Tringa flavipes                       Lesser Yellowlegs                       36 total     10 pics/sounds
 Tringa flavipes/melanoleuca           Lesser/Greater Yellowlegs               10 total     0 pics/sounds
 Tringa melanoleuca                    Greater Yellowlegs                      131 total    1 pics/sounds
-Tringa semipalmata                    Willet                                  79 total     0 pics/sounds
+Tringa semipalmata                    Willet                                  79 total     1 pics/sounds
 Tringa solitaria                      Solitary Sandpiper                      1 total      0 pics/sounds
 Troglodytes aedon                     Northern House Wren                     58 total     0 pics/sounds
 Troglodytes hiemalis                  Winter Wren                             28 total     0 pics/sounds
@@ -394,6 +394,6 @@ Vireo olivaceus                       Red-eyed Vireo                          50
 Vireo solitarius                      Blue-headed Vireo                       21 total     1 pics/sounds
 Zenaida asiatica                      White-winged Dove                       16 total     0 pics/sounds
 Zenaida macroura                      Mourning Dove                           1135 total   1 pics/sounds
-Zonotrichia albicollis                White-throated Sparrow                  1598 total   7 pics/sounds
+Zonotrichia albicollis                White-throated Sparrow                  1598 total   8 pics/sounds
 Zonotrichia atricapilla               Golden-crowned Sparrow                  40 total     0 pics/sounds
 Zonotrichia leucophrys                White-crowned Sparrow                   168 total    0 pics/sounds

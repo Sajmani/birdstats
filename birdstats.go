@@ -85,7 +85,14 @@ func main() {
 	}
 	miTotal := kmTotal * 0.621371
 
-	fmt.Printf("%d species; %d submissions\n", len(specs), len(subs))
+	var speciesWithMedia int
+	for _, spec := range specs {
+		if spec.mlAssets > 0 {
+			speciesWithMedia++
+		}
+	}
+
+	fmt.Printf("%d species; %d with media; %d submissions\n", len(specs), speciesWithMedia, len(subs))
 	fmt.Printf("%.0f total km; %.1f avg km\n", kmTotal, kmTotal/float64(len(subs)))
 	fmt.Printf("%.0f total mi; %.1f avg mi\n", miTotal, miTotal/float64(len(subs)))
 	fmt.Printf("%s total time; %s avg time\n", durTotal, (durTotal / time.Duration(len(subs))).Truncate(time.Minute))
