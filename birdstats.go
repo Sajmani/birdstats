@@ -10,6 +10,7 @@ import (
 	"slices"
 	"strconv"
 	"strings"
+	"text/tabwriter"
 	"time"
 
 	"github.com/Sajmani/birdstats/ebird"
@@ -73,10 +74,7 @@ func main() {
 			spec.mlAssets += len(strings.Split(mlAssets, " "))
 		}
 	}
-	for _, name := range slices.Sorted(maps.Keys(specs)) {
-		spec := specs[name]
-		fmt.Println(name, "["+spec.commonName+"]:", spec.count, "seen;", spec.mlAssets, "pics/sounds")
-	}
+
 	var (
 		kmTotal  float64
 		durTotal time.Duration
@@ -86,9 +84,17 @@ func main() {
 		durTotal += sub.dur
 	}
 	miTotal := kmTotal * 0.621371
-	fmt.Printf("%d species, %d submissions, %f total km (%f avg), %f total mi (%f avg), %s total time (%s avg)\n",
-		len(specs), len(subs),
-		kmTotal, kmTotal/float64(len(subs)),
-		miTotal, miTotal/float64(len(subs)),
-		durTotal, durTotal/time.Duration(len(subs)))
+
+	fmt.Printf("%d species; %d submissions\n", len(specs), len(subs))
+	fmt.Printf("%.0f total km; %.1f avg km\n", kmTotal, kmTotal/float64(len(subs)))
+	fmt.Printf("%.0f total mi; %.1f avg mi\n", miTotal, miTotal/float64(len(subs)))
+	fmt.Printf("%s total time; %s avg time\n", durTotal, (durTotal / time.Duration(len(subs))).Truncate(time.Minute))
+	fmt.Printf("————————————————————————————————————————————————————————————————————————————————\n")
+
+	w := tabwriter.NewWriter(os.Stdout, 0, 0, 1, ' ', 0)
+	for _, name := range slices.Sorted(maps.Keys(specs)) {
+		spec := specs[name]
+		fmt.Fprintln(w, name, "\t"+spec.commonName+"\t", spec.count, "total\t", spec.mlAssets, "pics/sounds")
+	}
+	w.Flush()
 }
