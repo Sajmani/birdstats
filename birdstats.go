@@ -1,3 +1,5 @@
+// The birdstats command prints stats for a collection of eBird submissions in a CSV file.
+// It also prints per-species stats.
 package main
 
 import (
