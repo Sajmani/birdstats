@@ -1,4 +1,4 @@
-394 species; 223 with media; 498 submissions
+394 species; 228 with media; 498 submissions
 1162 total km; 2.3 avg km
 722 total mi; 1.4 avg mi
 646h4m0s total time; 1h17m0s avg time
@@ -24,7 +24,7 @@ Anas platyrhynchos x rubripes         Mallard x American Black Duck (hybrid)  5 
 Anas rubripes                         American Black Duck                     357 total    3 pics/sounds
 Anatidae (duck sp.)                   duck sp.                                6 total      0 pics/sounds
 Anatidae (goose sp.)                  goose sp.                               2 total      2 pics/sounds
-Andropadus importunus                 Sombre Greenbul                         0 total      0 pics/sounds
+Andropadus importunus                 Sombre Greenbul                         1 total      1 pics/sounds
 Anhinga anhinga                       Anhinga                                 17 total     3 pics/sounds
 Anser albifrons                       Greater White-fronted Goose             2 total      7 pics/sounds
 Anser anser                           Graylag Goose                           3 total      2 pics/sounds
@@ -123,17 +123,17 @@ Corvus ossifragus                     Fish Crow                               51
 Corvus sp. (crow sp.)                 crow sp.                                3 total      0 pics/sounds
 Corvus splendens                      House Crow                              20 total     1 pics/sounds
 Creatophora cinerea                   Wattled Starling                        6 total      1 pics/sounds
-Crinifer personatus                   Bare-faced Go-away-bird                 1 total      0 pics/sounds
+Crinifer personatus                   Bare-faced Go-away-bird                 1 total      1 pics/sounds
 Cyanistes caeruleus                   Eurasian Blue Tit                       14 total     3 pics/sounds
 Cyanocitta cristata                   Blue Jay                                1171 total   2 pics/sounds
 Cyanocitta stelleri                   Steller's Jay                           3 total      0 pics/sounds
-Cyanomitra veroxii                    Mouse-colored Sunbird                   0 total      0 pics/sounds
+Cyanomitra veroxii                    Mouse-colored Sunbird                   1 total      3 pics/sounds
 Cygnus buccinator                     Trumpeter Swan                          52 total     0 pics/sounds
 Cygnus olor                           Mute Swan                               627 total    5 pics/sounds
-Cypsiurus parvus                      African Palm Swift                      0 total      0 pics/sounds
+Cypsiurus parvus                      African Palm Swift                      1 total      1 pics/sounds
 Dendrocopos major                     Great Spotted Woodpecker                2 total      2 pics/sounds
 Dendrocygna autumnalis                Black-bellied Whistling-Duck            16 total     0 pics/sounds
-Dicrurus adsimilis                    Fork-tailed Drongo                      0 total      0 pics/sounds
+Dicrurus adsimilis                    Fork-tailed Drongo                      1 total      4 pics/sounds
 Dinemellia dinemelli                  White-headed Buffalo-Weaver             1 total      0 pics/sounds
 Dryobates nuttallii                   Nuttall's Woodpecker                    2 total      0 pics/sounds
 Dryobates pubescens                   Downy Woodpecker                        446 total    0 pics/sounds
@@ -175,7 +175,7 @@ Haematopus palliatus                  American Oystercatcher                  25
 Haemorhous mexicanus                  House Finch                             221 total    3 pics/sounds
 Haemorhous mexicanus/purpureus        House/Purple Finch                      2 total      0 pics/sounds
 Haemorhous purpureus                  Purple Finch                            26 total     1 pics/sounds
-Halcyon leucocephala                  Gray-headed Kingfisher                  1 total      1 pics/sounds
+Halcyon leucocephala                  Gray-headed Kingfisher                  1 total      2 pics/sounds
 Haliaeetus leucocephalus              Bald Eagle                              24 total     13 pics/sounds
 Hedydipna collaris                    Collared Sunbird                        0 total      0 pics/sounds
 Himantopus mexicanus                  Black-necked Stilt                      109 total    1 pics/sounds
@@ -279,7 +279,7 @@ Pipilo maculatus                      Spotted Towhee                          15
 Piranga olivacea                      Scarlet Tanager                         16 total     0 pics/sounds
 Plegadis falcinellus                  Glossy Ibis                             125 total    4 pics/sounds
 Ploceus spekei                        Speke's Weaver                          1 total      1 pics/sounds
-Ploceus subaureus                     African Golden-Weaver                   0 total      1 pics/sounds
+Ploceus subaureus                     African Golden-Weaver                   1 total      4 pics/sounds
 Pluvialis squatarola                  Black-bellied Plover                    80 total     3 pics/sounds
 Podiceps auritus                      Horned Grebe                            6 total      3 pics/sounds
 Podiceps cristatus                    Great Crested Grebe                     21 total     10 pics/sounds
